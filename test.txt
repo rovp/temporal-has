@@ -1,0 +1,2 @@
+go build -o worker ./cmd/worker
+go build -o client ./client
